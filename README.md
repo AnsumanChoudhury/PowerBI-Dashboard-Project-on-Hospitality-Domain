@@ -1,7 +1,3 @@
-Certainly! Here's a detailed professional report for your dashboard on "Revenue Insights in the Hotel Industry" that you can add to your GitHub README file.
-
----
-
 # Revenue Insights in the Hotel Industry
 
 ## Overview
